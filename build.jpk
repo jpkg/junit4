@@ -1,0 +1,3 @@
+dependencies=
+build-command=mvn install
+output-jar=../target/junit-4.13-SNAPSHOT.jar
